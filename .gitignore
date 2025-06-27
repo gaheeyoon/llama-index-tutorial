@@ -174,3 +174,7 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+
+# env 폴더 추가
+ch*_env/
