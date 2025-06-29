@@ -182,3 +182,4 @@ ch*_env/
 # vscode 설정 파일 추가
 **/.vscode/
 **/chroma_db/
+**/index_data/
