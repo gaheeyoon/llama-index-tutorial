@@ -183,3 +183,4 @@ ch*_env/
 **/.vscode/
 **/chroma_db/
 **/index_data/
+**/chroma_storage/
