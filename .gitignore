@@ -184,3 +184,5 @@ ch*_env/
 **/chroma_db/
 **/index_data/
 **/chroma_storage/
+**/qdrant_db/
+**/qdrant_storage/
