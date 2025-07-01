@@ -187,3 +187,4 @@ ch*_env/
 **/qdrant_db/
 **/qdrant_storage/
 **/chroma_db_test/
+**/qdrant_mm_db/
