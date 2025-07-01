@@ -189,3 +189,4 @@ ch*_env/
 **/chroma_db_test/
 **/qdrant_mm_db/
 **/wiki_download**/
+**/storage/
